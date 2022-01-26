@@ -25,3 +25,6 @@ yarn-error.log*
 .eslintcache
 *.tsbuildinfo
 *.tsbuildinfo
+
+/src/ColorWheel.css
+/src/ColorWheel.js
