@@ -756,7 +756,7 @@ function App() {
           <div css={textSection}>
             <h2 css={[headingStyle, textCenter]}>What our users say.</h2>
             <p css={[paragraphStyle, textCenter]}>
-              Testimonials from our users ❤️
+              Testimonials from our users.
             </p>
           </div>
           <div css={testimonialWrapper}>
