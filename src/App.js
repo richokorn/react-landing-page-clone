@@ -3,7 +3,6 @@
 import './App.css';
 import { css } from '@emotion/react';
 import { Tweet } from 'react-twitter-widgets';
-import { ColorWheel } from './ColorWheel';
 import AppBadge from './img/app-store-badge.svg';
 
 // reused stuff
@@ -568,7 +567,8 @@ function App() {
         <div css={contentContainer}>
           <div css={textSection}>
             <h2 css={[headingStyle, textCenter]}>
-              Keep track of the important things with <em>Always On</em> reminders.
+              Keep track of the important things with <em>Always On</em>{' '}
+              reminders.
             </h2>
             <p css={[paragraphStyle, textCenter]}>
               Your life goals, <em>The Matrix</em> release, deadlines...
