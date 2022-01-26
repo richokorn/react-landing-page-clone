@@ -5,11 +5,10 @@
 - [Pretty Progress](https://prettyprogress.app/?ref=landingfolio)
 - [LandingFolio](https://www.landingfolio.com/)
 
-#### CSS Stuff
+#### CSS Rounded Square Shape Div
 
--
-
-===
+- [W3S - Object Fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+- [W3S - Rounded Corners](https://www.w3schools.com/css/css3_borders.asp)
 
 Implement landing page with React and [`emotion`](https://emotion.sh/docs/introduction).
 
